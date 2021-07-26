@@ -1,6 +1,6 @@
-## ppi-flourish-charts
+# ppi-flourish-charts
 This repo contains the most recent data for updating any public facing PPI flourish charts
-# Pandemic Prevention Institute Flourish Charts
+## Pandemic Prevention Institute Flourish Charts
 These are the following charts:
 Chart | Update Frequency | Description | Link
 -------------------------------------------------|-----------------------------------| ------ | ------
