@@ -1,6 +1,6 @@
-"Country","Region","WHO Testing Capacity","Max 30-day average of new tests per capita","Sequencing capacity","Cumulative GISAID sequences","New cases per capita in the last 7 days per 100k","Archetype"
+"Country","Region","WHO testing Capacity","Max 30-day average of new tests per capita","Sequencing capacity","Cumulative GISAID sequences","New cases per capita in the last 7 days per 100k","Archetype"
 "American Samoa","Western Pacific","0 - Unreliable",NaN,"0 - 0 NGS facilities or equivalent",0,0,"1 - Test"
-"Australia","Western Pacific","1 - Reliable",642.24,"2 - 4+ NGS facilities or equivalent",21501,0.98,"0 - High Income*"
+"Australia","Western Pacific","1 - Reliable",655.09,"2 - 4+ NGS facilities or equivalent",21501,0.98,"0 - High Income*"
 "Brunei","Western Pacific","1 - Reliable",112.5,"1 - 1-3 NGS facilities or equivalent",10,1.37,"0 - High Income*"
 "Cambodia","Western Pacific","1 - Reliable",90.12,"1 - 1-3 NGS facilities or equivalent",663,40.18,"4 - Strengthen"
 "China","Western Pacific","1 - Reliable",49.85,"2 - 4+ NGS facilities or equivalent",1328,0.04,"0 - High Income*"

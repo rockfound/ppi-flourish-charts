@@ -1,10 +1,10 @@
-"Country","Region","WHO Testing Capacity","Max 30-day average of new tests per capita","Sequencing capacity","Cumulative GISAID sequences","New cases per capita in the last 7 days per 100k","Archetype"
-"Bangladesh","South-East Asia","1 - Reliable",24.83,"2 - 4+ NGS facilities or equivalent",2118,41.08,"4 - Strengthen"
+"Country","Region","WHO testing Capacity","Max 30-day average of new tests per capita","Sequencing capacity","Cumulative GISAID sequences","New cases per capita in the last 7 days per 100k","Archetype"
+"Bangladesh","South-East Asia","1 - Reliable",25.03,"2 - 4+ NGS facilities or equivalent",2118,41.08,"4 - Strengthen"
 "Bhutan","South-East Asia","0 - Unreliable",750.57,"0 - 0 NGS facilities or equivalent",0,19.18,"2 - Connect"
 "East Timor","South-East Asia","1 - Reliable",NaN,"0 - 0 NGS facilities or equivalent",19,28.75,"2 - Connect"
 "India","South-East Asia","1 - Reliable",161.31,"2 - 4+ NGS facilities or equivalent",44968,21.59,"4 - Strengthen"
 "Indonesia","South-East Asia","1 - Reliable",98.2,"2 - 4+ NGS facilities or equivalent",4665,78.49,"4 - Strengthen"
-"Maldives","South-East Asia","0 - Unreliable",2230.04,"0 - 0 NGS facilities or equivalent",25,146.7,"2 - Connect"
+"Maldives","South-East Asia","0 - Unreliable",2230.04,"0 - 0 NGS facilities or equivalent",25,146.7,NaN
 "Myanmar","South-East Asia","1 - Reliable",38.18,"1 - 1-3 NGS facilities or equivalent",75,38.06,"3 - Leverage"
 "Nepal","South-East Asia","0 - Unreliable",65.19,"1 - 1-3 NGS facilities or equivalent",184,36.79,"3 - Leverage"
 "North Korea","South-East Asia","0 - Unreliable",NaN,"0 - 0 NGS facilities or equivalent",0,0,"1 - Test"
