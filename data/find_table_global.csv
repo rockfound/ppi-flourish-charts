@@ -141,7 +141,7 @@
 "Madagascar","Africa","1 - Reliable",4.55,"1 - 1-3 NGS facilities or equivalent",122,0.79,"3 - Leverage"
 "Malawi","Africa","1 - Reliable",13.12,"0 - 0 NGS facilities or equivalent",369,7.48,"2 - Connect"
 "Malaysia","Western Pacific","1 - Reliable",284.15,"1 - 1-3 NGS facilities or equivalent",1756,147.72,"4 - Strengthen"
-"Maldives","South-East Asia","0 - Unreliable",2230.04,"0 - 0 NGS facilities or equivalent",25,146.7,NaN
+"Maldives","South-East Asia","0 - Unreliable",2230.04,"0 - 0 NGS facilities or equivalent",25,146.7,"2 - Connect"
 "Mali","Africa","1 - Reliable",7.03,"1 - 1-3 NGS facilities or equivalent",36,0.14,"3 - Leverage"
 "Malta","Europe","1 - Reliable",866.54,"0 - 0 NGS facilities or equivalent",299,24.88,"0 - High Income*"
 "Marshall Islands","Western Pacific","0 - Unreliable",NaN,"0 - 0 NGS facilities or equivalent",0,0,"1 - Test"
@@ -157,7 +157,7 @@
 "Morocco","Eastern Mediterranean","1 - Reliable",77.35,"2 - 4+ NGS facilities or equivalent",365,15.96,"3 - Leverage"
 "Mozambique","Africa","1 - Reliable",15.63,"0 - 0 NGS facilities or equivalent",489,22.66,"2 - Connect"
 "Myanmar","South-East Asia","1 - Reliable",38.18,"1 - 1-3 NGS facilities or equivalent",75,38.06,"3 - Leverage"
-"Namibia","Africa","0 - Unreliable",141.67,"0 - 0 NGS facilities or equivalent",231,389.27,NaN
+"Namibia","Africa","0 - Unreliable",141.67,"0 - 0 NGS facilities or equivalent",231,389.27,"2 - Connect"
 "Nauru","Western Pacific","0 - Unreliable",NaN,"0 - 0 NGS facilities or equivalent",0,0,"0 - High Income*"
 "Nepal","South-East Asia","0 - Unreliable",65.19,"1 - 1-3 NGS facilities or equivalent",184,36.79,"3 - Leverage"
 "Netherlands","Europe","1 - Reliable",474.07,"2 - 4+ NGS facilities or equivalent",50247,66.34,"0 - High Income*"
