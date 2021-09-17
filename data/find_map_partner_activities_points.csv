@@ -34,7 +34,6 @@
 "Malawi","MWI","Africa",-13.2180697,34.2893585,"Low income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",2,"X","✓","✓","X","X",2,0,0,2,0,0
 "Mali","MLI","Africa",17.34581461,-3.54268794,"Low income","Leverage","– Leverage existing NGS capacity",2,"X","✓","✓","X","X",2,0,1,1,0,0
 "Mexico","MEX","Americas",23.94753932,-102.52345042,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",2,"X","✓","✓","X","X",1,0,1,0,0,0
-"Mozambique","MOZ","Africa",-17.27381898,35.53367351,"Low income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",0,"X","X","X","X","X",0,0,0,0,0,0
 "Myanmar","MMR","South-East Asia",21.18566514,96.48843207,"Lower middle income","Leverage","– Leverage existing NGS capacity",1,"X","✓","✓","X","X",1,0,0,1,0,0
 "Nepal","NPL","South-East Asia",28.24891362,83.9158367,"Lower middle income","Leverage","– Leverage existing NGS capacity",4,"X","✓","✓","✓","X",3,1,0,2,0,0
 "Nigeria","NGA","Africa",9.59411807,8.08944243,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",4,"✓","✓","✓","X","X",4,0,1,2,1,0
@@ -44,7 +43,6 @@
 "Paraguay","PRY","Americas",-23.22823896,-58.40014084,"Upper middle income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",2,"X","✓","✓","X","X",1,0,1,0,0,0
 "Peru","PER","Americas",-9.15280281,-74.38242889,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",2,"X","✓","✓","X","X",1,0,1,0,0,0
 "Russia","RUS","Europe",61.98052168,96.68657347,"Upper middle income","High Income*","",1,"✓","✓","X","X","X",1,0,0,1,0,0
-"Rwanda","RWA","Africa",-1.99033199,29.91989113,"Low income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",0,"X","X","X","X","X",0,0,0,0,0,0
 "Senegal","SEN","Africa",14.36624381,-14.47348904,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",4,"✓","✓","✓","X","X",2,0,1,1,0,0
 "Seychelles","SYC","Africa",-4.66097821,55.47601997,"High income","High Income*","",2,"X","✓","✓","X","X",1,0,0,1,0,0
 "South Africa","ZAF","Africa",-29.0003377,25.08388384,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",5,"✓","✓","✓","X","X",6,0,0,5,1,0
@@ -62,4 +60,3 @@
 "Venezuela","VEN","Americas",7.12422395,-66.18184085,"Upper middle income","Leverage","– Leverage existing NGS capacity",2,"X","✓","✓","X","X",1,0,1,0,0,0
 "Vietnam","VNM","Western Pacific",16.64601451,106.29913857,"Lower middle income","Leverage","– Leverage existing NGS capacity",5,"✓","✓","✓","X","X",7,0,1,5,1,0
 "Zambia","ZMB","Africa",-13.45824537,27.77475082,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",6,"✓","✓","✓","X","X",4,1,1,2,0,0
-"Zimbabwe","ZWE","Africa",-19.00420587,29.85145031,"Lower middle income","Leverage","– Leverage existing NGS capacity",0,"X","X","X","X","X",0,0,0,0,0,0
