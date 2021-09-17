@@ -1,91 +1,91 @@
 "geometry","country","code","world_bank_economies","archetype","total_projects","support"
-,"Abyei","","NaN","Test",,"LMIC without any partner activity mapped"
-,"Abyei Disputed Boundary","","NaN","Test",,"LMIC without any partner activity mapped"
-,"Abyei Disputed Boundary","","NaN","Test",,"LMIC without any partner activity mapped"
-,"Abyei Disputed Boundary","","NaN","Test",,"LMIC without any partner activity mapped"
-,"Afghanistan","AFG","Low income","Connect",,"LMIC without any partner activity mapped"
-,"Aksai Chin","","NaN","Test",,"LMIC without any partner activity mapped"
-,"Aksai Chin Disputed Boundary","","NaN","Test",,"LMIC without any partner activity mapped"
-,"Aksai Chin Disputed Boundary","","NaN","Test",,"LMIC without any partner activity mapped"
-,"Albania","ALB","Upper middle income","Connect",,"LMIC without any partner activity mapped"
-,"Algeria","DZA","Lower middle income","Connect",,"LMIC without any partner activity mapped"
-,"American Samoa","ASM","Upper middle income","Test",,"LMIC without any partner activity mapped"
+,"Abyei","","NaN","Test",,
+,"Abyei Disputed Boundary","","NaN","Test",,
+,"Abyei Disputed Boundary","","NaN","Test",,
+,"Abyei Disputed Boundary","","NaN","Test",,
+,"Afghanistan","AFG","Low income","Connect",,
+,"Aksai Chin","","NaN","Test",,
+,"Aksai Chin Disputed Boundary","","NaN","Test",,
+,"Aksai Chin Disputed Boundary","","NaN","Test",,
+,"Albania","ALB","Upper middle income","Connect",,
+,"Algeria","DZA","Lower middle income","Connect",,
+,"American Samoa","ASM","Upper middle income","Test",,
 ,"Andorra","AND","High income","High Income*",,"HIC without any partner activity mapped"
-,"Angola","AGO","Lower middle income","Leverage",,"LMIC without any partner activity mapped"
-,"Anguilla","AIA","NaN","Test",,"LMIC without any partner activity mapped"
+,"Angola","AGO","Lower middle income","Leverage",,
+,"Anguilla","AIA","NaN","Test",,
 ,"Antigua and Barbuda","ATG","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Argentina","ARG","Upper middle income","Strengthen",2,"Country receiving partner support"
-,"Armenia","ARM","Upper middle income","Connect",,"LMIC without any partner activity mapped"
+,"Armenia","ARM","Upper middle income","Connect",,
 ,"Aruba","ABW","High income","High Income*",,"HIC without any partner activity mapped"
-,"Arunachal Pradesh","","NaN","Test",,"LMIC without any partner activity mapped"
-,"Arunachal Pradesh Disputed Boundary","","NaN","Test",,"LMIC without any partner activity mapped"
-,"Arunachal Pradesh Disputed Boundary","","NaN","Test",,"LMIC without any partner activity mapped"
+,"Arunachal Pradesh","","NaN","Test",,
+,"Arunachal Pradesh Disputed Boundary","","NaN","Test",,
+,"Arunachal Pradesh Disputed Boundary","","NaN","Test",,
 ,"Australia","AUS","High income","High Income*",1,"Country receiving partner support"
-,"Australian Indian Ocean Territories","","NaN","Test",,"LMIC without any partner activity mapped"
-,"Australian Indian Ocean Territories","","NaN","Test",,"LMIC without any partner activity mapped"
+,"Australian Indian Ocean Territories","","NaN","Test",,
+,"Australian Indian Ocean Territories","","NaN","Test",,
 ,"Austria","AUT","High income","High Income*",,"HIC without any partner activity mapped"
-,"Azerbaijan","AZE","Upper middle income","Leverage",,"LMIC without any partner activity mapped"
+,"Azerbaijan","AZE","Upper middle income","Leverage",,
 ,"Bahrain","BHR","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Bangladesh","BGD","Lower middle income","Strengthen",8,"Country receiving partner support"
 ,"Barbados","BRB","High income","High Income*",1,"Country receiving partner support"
-,"Belarus","BLR","Upper middle income","Leverage",,"LMIC without any partner activity mapped"
+,"Belarus","BLR","Upper middle income","Leverage",,
 ,"Belgium","BEL","High income","High Income*",,"HIC without any partner activity mapped"
-,"Belize","BLZ","Upper middle income","Connect",,"LMIC without any partner activity mapped"
-,"Benin","BEN","Lower middle income","Test",,"LMIC without any partner activity mapped"
+,"Belize","BLZ","Upper middle income","Connect",,
+,"Benin","BEN","Lower middle income","Test",,
 ,"Bermuda","BMU","High income","High Income*",,"HIC without any partner activity mapped"
-,"Bhutan","BTN","Lower middle income","Connect",,"LMIC without any partner activity mapped"
+,"Bhutan","BTN","Lower middle income","Connect",,
 ,"Bolivia","BOL","Lower middle income","Connect",1,"Country receiving partner support"
-,"Bosnia and Herzegovina","BIH","Upper middle income","Leverage",,"LMIC without any partner activity mapped"
-,"Botswana","BWA","Upper middle income","Strengthen",,"LMIC without any partner activity mapped"
+,"Bosnia and Herzegovina","BIH","Upper middle income","Leverage",,
+,"Botswana","BWA","Upper middle income","Strengthen",,
 ,"Brazil","BRA","Upper middle income","Strengthen",7,"Country receiving partner support"
-,"British Indian Ocean Territory","IOT","NaN","Test",,"LMIC without any partner activity mapped"
+,"British Indian Ocean Territory","IOT","NaN","Test",,
 ,"British Virgin Islands","VGB","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Brunei","BRN","High income","High Income*",,"HIC without any partner activity mapped"
-,"Bulgaria","BGR","Upper middle income","Strengthen",,"LMIC without any partner activity mapped"
+,"Bulgaria","BGR","Upper middle income","Strengthen",,
 ,"Burkina Faso","BFA","Low income","Leverage",1,"Country receiving partner support"
-,"Burundi","BDI","Low income","Connect",,"LMIC without any partner activity mapped"
+,"Burundi","BDI","Low income","Connect",,
 ,"Cambodia","KHM","Lower middle income","Strengthen",2,"Country receiving partner support"
 ,"Cameroon","CMR","Lower middle income","Leverage",4,"Country receiving partner support"
 ,"Canada","CAN","High income","High Income*",,"HIC without any partner activity mapped"
-,"Cape Verde","CPV","Lower middle income","Connect",,"LMIC without any partner activity mapped"
+,"Cape Verde","CPV","Lower middle income","Connect",,
 ,"Cayman Islands","CYM","High income","High Income*",,"HIC without any partner activity mapped"
-,"Central African Republic","CAF","Low income","Connect",,"LMIC without any partner activity mapped"
-,"Chad","TCD","Low income","Connect",,"LMIC without any partner activity mapped"
+,"Central African Republic","CAF","Low income","Connect",,
+,"Chad","TCD","Low income","Connect",,
 ,"Chile","CHL","High income","High Income*",1,"Country receiving partner support"
 ,"China","CHN","Upper middle income","High Income*",2,"Country receiving partner support"
-,"Clipperton Island","","NaN","Test",,"LMIC without any partner activity mapped"
+,"Clipperton Island","","NaN","Test",,
 ,"Colombia","COL","Upper middle income","Strengthen",3,"Country receiving partner support"
 ,"Comoros","COM","Lower middle income","Test",1,"Country receiving partner support"
-,"Cook Islands","COK","NaN","Test",,"LMIC without any partner activity mapped"
+,"Cook Islands","COK","NaN","Test",,
 ,"Costa Rica","CRI","Upper middle income","Strengthen",3,"Country receiving partner support"
 ,"Croatia","HRV","High income","High Income*",,"HIC without any partner activity mapped"
-,"Cuba","CUB","Upper middle income","Leverage",,"LMIC without any partner activity mapped"
+,"Cuba","CUB","Upper middle income","Leverage",,
 ,"Curaçao","CUW","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Cyprus","CYP","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Czech Republic","CZE","High income","High Income*",,"HIC without any partner activity mapped"
-,"Demchok-Jammu & Kashmir Disputed Boundary","","NaN","Test",,"LMIC without any partner activity mapped"
-,"Demchok-Jammu & Kashmir Disputed Boundary","","NaN","Test",,"LMIC without any partner activity mapped"
+,"Demchok-Jammu & Kashmir Disputed Boundary","","NaN","Test",,
+,"Demchok-Jammu & Kashmir Disputed Boundary","","NaN","Test",,
 ,"Democratic Republic of the Congo","COD","Low income","Strengthen",1,"Country receiving partner support"
 ,"Denmark","DNK","High income","High Income*",,"HIC without any partner activity mapped"
-,"Djibouti","DJI","Lower middle income","Connect",,"LMIC without any partner activity mapped"
-,"Dominica","DMA","Upper middle income","Connect",,"LMIC without any partner activity mapped"
-,"Dominican Republic","DOM","Upper middle income","Leverage",,"LMIC without any partner activity mapped"
-,"East Timor","TLS","Lower middle income","Connect",,"LMIC without any partner activity mapped"
+,"Djibouti","DJI","Lower middle income","Connect",,
+,"Dominica","DMA","Upper middle income","Connect",,
+,"Dominican Republic","DOM","Upper middle income","Leverage",,
+,"East Timor","TLS","Lower middle income","Connect",,
 ,"Ecuador","ECU","Upper middle income","Strengthen",1,"Country receiving partner support"
-,"Egypt","EGY","Lower middle income","Strengthen",,"LMIC without any partner activity mapped"
-,"El Salvador","SLV","Lower middle income","Leverage",,"LMIC without any partner activity mapped"
-,"Equatorial Guinea","GNQ","Upper middle income","Connect",,"LMIC without any partner activity mapped"
-,"Eritrea","ERI","Low income","Test",,"LMIC without any partner activity mapped"
+,"Egypt","EGY","Lower middle income","Strengthen",,
+,"El Salvador","SLV","Lower middle income","Leverage",,
+,"Equatorial Guinea","GNQ","Upper middle income","Connect",,
+,"Eritrea","ERI","Low income","Test",,
 ,"Estonia","EST","High income","High Income*",,"HIC without any partner activity mapped"
-,"Eswatini","SWZ","Lower middle income","Connect",,"LMIC without any partner activity mapped"
+,"Eswatini","SWZ","Lower middle income","Connect",,
 ,"Ethiopia","ETH","Low income","Connect",5,"Country receiving partner support"
-,"Falkland Islands","FLK","NaN","Test",,"LMIC without any partner activity mapped"
+,"Falkland Islands","FLK","NaN","Test",,
 ,"Faroe Islands","FRO","High income","High Income*",,"HIC without any partner activity mapped"
-,"Fiji","FJI","Upper middle income","Connect",,"LMIC without any partner activity mapped"
+,"Fiji","FJI","Upper middle income","Connect",,
 ,"Finland","FIN","High income","High Income*",,"HIC without any partner activity mapped"
 ,"France","FRA","High income","High Income*",,"HIC without any partner activity mapped"
 ,"French Polynesia","PYF","High income","High Income*",,"HIC without any partner activity mapped"
-,"French Southern and Antarctic Lands","ATF","NaN","Test",,"LMIC without any partner activity mapped"
+,"French Southern and Antarctic Lands","ATF","NaN","Test",,
 ,"Gabon","GAB","Upper middle income","Leverage",1,"Country receiving partner support"
 ,"Georgia","GEO","Upper middle income","Leverage",2,"Country receiving partner support"
 ,"Germany","DEU","High income","High Income*",1,"Country receiving partner support"
@@ -93,177 +93,177 @@
 ,"Gibraltar","GIB","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Greece","GRC","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Greenland","GRL","High income","High Income*",,"HIC without any partner activity mapped"
-,"Grenada","GRD","Upper middle income","Connect",,"LMIC without any partner activity mapped"
+,"Grenada","GRD","Upper middle income","Connect",,
 ,"Guam","GUM","High income","High Income*",,"HIC without any partner activity mapped"
-,"Guantanamo Bay Naval Base","","NaN","Test",,"LMIC without any partner activity mapped"
+,"Guantanamo Bay Naval Base","","NaN","Test",,
 ,"Guatemala","GTM","Upper middle income","Leverage",1,"Country receiving partner support"
-,"Guernsey","GGY","NaN","Test",,"LMIC without any partner activity mapped"
+,"Guernsey","GGY","NaN","Test",,
 ,"Guinea","GIN","Low income","Test",2,"Country receiving partner support"
-,"Guinea-Bissau","GNB","Low income","Test",,"LMIC without any partner activity mapped"
-,"Guyana","GUY","Upper middle income","Connect",,"LMIC without any partner activity mapped"
-,"Guyana","GUY","Upper middle income","Connect",,"LMIC without any partner activity mapped"
+,"Guinea-Bissau","GNB","Low income","Test",,
+,"Guyana","GUY","Upper middle income","Connect",,
+,"Guyana","GUY","Upper middle income","Connect",,
 ,"Haiti","HTI","Low income","Test",2,"Country receiving partner support"
-,"Heard Island and McDonald Islands","HMD","NaN","Test",,"LMIC without any partner activity mapped"
-,"Honduras","HND","Lower middle income","Test",,"LMIC without any partner activity mapped"
+,"Heard Island and McDonald Islands","HMD","NaN","Test",,
+,"Honduras","HND","Lower middle income","Test",,
 ,"Hong Kong SAR, China","HKG","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Hungary","HUN","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Iceland","ISL","High income","High Income*",,"HIC without any partner activity mapped"
 ,"India","IND","Lower middle income","Strengthen",11,"Country receiving partner support"
-,"India-Pakistan Line of Control","","NaN","Test",,"LMIC without any partner activity mapped"
+,"India-Pakistan Line of Control","","NaN","Test",,
 ,"Indonesia","IDN","Upper middle income","Strengthen",5,"Country receiving partner support"
-,"Iran","IRN","Upper middle income","Strengthen",,"LMIC without any partner activity mapped"
-,"Iraq","IRQ","Upper middle income","Leverage",,"LMIC without any partner activity mapped"
+,"Iran","IRN","Upper middle income","Strengthen",,
+,"Iraq","IRQ","Upper middle income","Leverage",,
 ,"Ireland","IRL","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Isle of Man","IMN","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Israel","ISR","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Italy","ITA","High income","High Income*",,"HIC without any partner activity mapped"
-,"Ivory Coast","CIV","Lower middle income","Connect",,"LMIC without any partner activity mapped"
+,"Ivory Coast","CIV","Lower middle income","Connect",,
 ,"Jamaica","JAM","Upper middle income","Connect",2,"Country receiving partner support"
 ,"Japan","JPN","High income","High Income*",,"HIC without any partner activity mapped"
-,"Jersey","JEY","NaN","Test",,"LMIC without any partner activity mapped"
-,"Jordan","JOR","Upper middle income","Strengthen",,"LMIC without any partner activity mapped"
+,"Jersey","JEY","NaN","Test",,
+,"Jordan","JOR","Upper middle income","Strengthen",,
 ,"Kazakhstan","KAZ","Upper middle income","Leverage",2,"Country receiving partner support"
 ,"Kenya","KEN","Lower middle income","Strengthen",8,"Country receiving partner support"
-,"Kiribati","KIR","Lower middle income","Connect",,"LMIC without any partner activity mapped"
-,"Kosovo","XKX","Upper middle income","Connect",,"LMIC without any partner activity mapped"
+,"Kiribati","KIR","Lower middle income","Connect",,
+,"Kosovo","XKX","Upper middle income","Connect",,
 ,"Kuwait","KWT","High income","High Income*",,"HIC without any partner activity mapped"
-,"Kyrgyzstan","KGZ","Lower middle income","Connect",,"LMIC without any partner activity mapped"
+,"Kyrgyzstan","KGZ","Lower middle income","Connect",,
 ,"Laos","LAO","Lower middle income","Connect",3,"Country receiving partner support"
 ,"Latvia","LVA","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Lebanon","LBN","Upper middle income","Strengthen",3,"Country receiving partner support"
-,"Lesotho","LSO","Lower middle income","Connect",,"LMIC without any partner activity mapped"
-,"Liberia","LBR","Low income","Connect",,"LMIC without any partner activity mapped"
-,"Libya","LBY","Upper middle income","Connect",,"LMIC without any partner activity mapped"
+,"Lesotho","LSO","Lower middle income","Connect",,
+,"Liberia","LBR","Low income","Connect",,
+,"Libya","LBY","Upper middle income","Connect",,
 ,"Liechtenstein","LIE","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Lithuania","LTU","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Luxembourg","LUX","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Macao SAR, China","MAC","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Madagascar","MDG","Low income","Leverage",4,"Country receiving partner support"
 ,"Malawi","MWI","Low income","Connect",2,"Country receiving partner support"
-,"Malaysia","MYS","Upper middle income","Strengthen",,"LMIC without any partner activity mapped"
-,"Maldives","MDV","Upper middle income","Connect",,"LMIC without any partner activity mapped"
+,"Malaysia","MYS","Upper middle income","Strengthen",,
+,"Maldives","MDV","Upper middle income","Connect",,
 ,"Mali","MLI","Low income","Leverage",2,"Country receiving partner support"
 ,"Malta","MLT","High income","High Income*",,"HIC without any partner activity mapped"
-,"Marshall Islands","MHL","Upper middle income","Test",,"LMIC without any partner activity mapped"
-,"Mauritania","MRT","Lower middle income","Connect",,"LMIC without any partner activity mapped"
+,"Marshall Islands","MHL","Upper middle income","Test",,
+,"Mauritania","MRT","Lower middle income","Connect",,
 ,"Mauritius","MUS","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Mexico","MEX","Upper middle income","Strengthen",1,"Country receiving partner support"
-,"Micronesia","FSM","Lower middle income","Test",,"LMIC without any partner activity mapped"
-,"Moldova","MDA","Lower middle income","Connect",,"LMIC without any partner activity mapped"
+,"Micronesia","FSM","Lower middle income","Test",,
+,"Moldova","MDA","Lower middle income","Connect",,
 ,"Monaco","MCO","High income","High Income*",,"HIC without any partner activity mapped"
-,"Mongolia","MNG","Lower middle income","Connect",,"LMIC without any partner activity mapped"
-,"Montenegro","MNE","Upper middle income","Connect",,"LMIC without any partner activity mapped"
-,"Montserrat","MSR","NaN","Test",,"LMIC without any partner activity mapped"
-,"Morocco","MAR","Lower middle income","Leverage",,"LMIC without any partner activity mapped"
+,"Mongolia","MNG","Lower middle income","Connect",,
+,"Montenegro","MNE","Upper middle income","Connect",,
+,"Montserrat","MSR","NaN","Test",,
+,"Morocco","MAR","Lower middle income","Leverage",,
 ,"Mozambique","MOZ","Low income","Connect",0,"LMIC without any partner activity mapped"
 ,"Myanmar","MMR","Lower middle income","Leverage",1,"Country receiving partner support"
-,"Namibia","NAM","Upper middle income","Connect",,"LMIC without any partner activity mapped"
+,"Namibia","NAM","Upper middle income","Connect",,
 ,"Nauru","NRU","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Nepal","NPL","Lower middle income","Leverage",3,"Country receiving partner support"
 ,"Netherlands","NLD","High income","High Income*",,"HIC without any partner activity mapped"
 ,"New Caledonia","NCL","High income","High Income*",,"HIC without any partner activity mapped"
 ,"New Zealand","NZL","High income","High Income*",,"HIC without any partner activity mapped"
-,"Nicaragua","NIC","Lower middle income","Test",,"LMIC without any partner activity mapped"
-,"Niger","NER","Low income","Connect",,"LMIC without any partner activity mapped"
+,"Nicaragua","NIC","Lower middle income","Test",,
+,"Niger","NER","Low income","Connect",,
 ,"Nigeria","NGA","Lower middle income","Strengthen",4,"Country receiving partner support"
-,"Niue","NIU","NaN","Test",,"LMIC without any partner activity mapped"
-,"Norfolk Island","NFK","NaN","Test",,"LMIC without any partner activity mapped"
-,"North Korea","PRK","Low income","Test",,"LMIC without any partner activity mapped"
-,"North Korea-South Korea Disputed Boundary","","NaN","Test",,"LMIC without any partner activity mapped"
-,"North Macedonia","MKD","Upper middle income","Strengthen",,"LMIC without any partner activity mapped"
+,"Niue","NIU","NaN","Test",,
+,"Norfolk Island","NFK","NaN","Test",,
+,"North Korea","PRK","Low income","Test",,
+,"North Korea-South Korea Disputed Boundary","","NaN","Test",,
+,"North Macedonia","MKD","Upper middle income","Strengthen",,
 ,"Northern Mariana Islands","MNP","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Norway","NOR","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Oman","OMN","High income","High Income*",3,"Country receiving partner support"
 ,"Pakistan","PAK","Lower middle income","Leverage",2,"Country receiving partner support"
 ,"Palau","PLW","High income","High Income*",,"HIC without any partner activity mapped"
-,"Palestine","PSE","Lower middle income","Connect",,"LMIC without any partner activity mapped"
+,"Palestine","PSE","Lower middle income","Connect",,
 ,"Panama","PAN","High income","High Income*",3,"Country receiving partner support"
-,"Papua New Guinea","PNG","Lower middle income","Test",,"LMIC without any partner activity mapped"
+,"Papua New Guinea","PNG","Lower middle income","Test",,
 ,"Paraguay","PRY","Upper middle income","Connect",1,"Country receiving partner support"
 ,"Peru","PER","Upper middle income","Strengthen",1,"Country receiving partner support"
-,"Philippines","PHL","Lower middle income","Strengthen",,"LMIC without any partner activity mapped"
-,"Pitcairn Islands","PCN","NaN","Test",,"LMIC without any partner activity mapped"
+,"Philippines","PHL","Lower middle income","Strengthen",,
+,"Pitcairn Islands","PCN","NaN","Test",,
 ,"Poland","POL","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Portugal","PRT","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Puerto Rico","PRI","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Qatar","QAT","High income","High Income*",,"HIC without any partner activity mapped"
-,"Republic of the Congo","COG","Lower middle income","Connect",,"LMIC without any partner activity mapped"
-,"Republic of the Congo","COG","Lower middle income","Connect",,"LMIC without any partner activity mapped"
+,"Republic of the Congo","COG","Lower middle income","Connect",,
+,"Republic of the Congo","COG","Lower middle income","Connect",,
 ,"Romania","ROU","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Russia","RUS","Upper middle income","High Income*",1,"Country receiving partner support"
 ,"Rwanda","RWA","Low income","Connect",0,"LMIC without any partner activity mapped"
-,"Saint Helena","SHN","NaN","Test",,"LMIC without any partner activity mapped"
+,"Saint Helena","SHN","NaN","Test",,
 ,"Saint Kitts and Nevis","KNA","High income","High Income*",,"HIC without any partner activity mapped"
-,"Saint Lucia","LCA","Upper middle income","Connect",,"LMIC without any partner activity mapped"
+,"Saint Lucia","LCA","Upper middle income","Connect",,
 ,"Saint Martin","MAF","High income","High Income*",,"HIC without any partner activity mapped"
-,"Saint Pierre and Miquelon","SPM","NaN","Test",,"LMIC without any partner activity mapped"
-,"Saint Vincent and the Grenadines","VCT","Upper middle income","Connect",,"LMIC without any partner activity mapped"
-,"Saint-Barthélemy","BLM","NaN","Test",,"LMIC without any partner activity mapped"
-,"Samoa","WSM","Upper middle income","Test",,"LMIC without any partner activity mapped"
+,"Saint Pierre and Miquelon","SPM","NaN","Test",,
+,"Saint Vincent and the Grenadines","VCT","Upper middle income","Connect",,
+,"Saint-Barthélemy","BLM","NaN","Test",,
+,"Samoa","WSM","Upper middle income","Test",,
 ,"San Marino","SMR","High income","High Income*",,"HIC without any partner activity mapped"
-,"São Tomé and Príncipe","STP","Lower middle income","Connect",,"LMIC without any partner activity mapped"
+,"São Tomé and Príncipe","STP","Lower middle income","Connect",,
 ,"Saudi Arabia","SAU","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Senegal","SEN","Lower middle income","Strengthen",2,"Country receiving partner support"
-,"Serbia","SRB","Upper middle income","Leverage",,"LMIC without any partner activity mapped"
+,"Serbia","SRB","Upper middle income","Leverage",,
 ,"Seychelles","SYC","High income","High Income*",1,"Country receiving partner support"
-,"Sierra Leone","SLE","Low income","Test",,"LMIC without any partner activity mapped"
+,"Sierra Leone","SLE","Low income","Test",,
 ,"Singapore","SGP","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Sint Maarten (Dutch part)","SXM","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Slovakia","SVK","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Slovenia","SVN","High income","High Income*",,"HIC without any partner activity mapped"
-,"Solomon Islands","SLB","Lower middle income","Connect",,"LMIC without any partner activity mapped"
-,"Somalia","SOM","Low income","Test",,"LMIC without any partner activity mapped"
+,"Solomon Islands","SLB","Lower middle income","Connect",,
+,"Somalia","SOM","Low income","Test",,
 ,"South Africa","ZAF","Upper middle income","Strengthen",6,"Country receiving partner support"
-,"South Georgia and the South Sandwich Islands","SGS","NaN","Test",,"LMIC without any partner activity mapped"
+,"South Georgia and the South Sandwich Islands","SGS","NaN","Test",,
 ,"South Korea","KOR","High income","High Income*",,"HIC without any partner activity mapped"
-,"South Sudan","SSD","Low income","Connect",,"LMIC without any partner activity mapped"
+,"South Sudan","SSD","Low income","Connect",,
 ,"Spain","ESP","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Sri Lanka","LKA","Lower middle income","Strengthen",1,"Country receiving partner support"
 ,"Sudan","SDN","Low income","Test",1,"Country receiving partner support"
-,"Suriname","SUR","Upper middle income","Connect",,"LMIC without any partner activity mapped"
+,"Suriname","SUR","Upper middle income","Connect",,
 ,"Sweden","SWE","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Switzerland","CHE","High income","High Income*",,"HIC without any partner activity mapped"
-,"Syria","SYR","Low income","Test",,"LMIC without any partner activity mapped"
+,"Syria","SYR","Low income","Test",,
 ,"Taiwan","TWN","High income","High Income*",,"HIC without any partner activity mapped"
-,"Tajikistan","TJK","Low income","Test",,"LMIC without any partner activity mapped"
+,"Tajikistan","TJK","Low income","Test",,
 ,"Tanzania","TZA","Lower middle income","Connect",3,"Country receiving partner support"
 ,"Thailand","THA","Upper middle income","Strengthen",7,"Country receiving partner support"
 ,"The Bahamas","BHS","High income","High Income*",1,"Country receiving partner support"
 ,"The Gambia","GMB","Low income","Strengthen",1,"Country receiving partner support"
-,"Togo","TGO","Low income","Test",,"LMIC without any partner activity mapped"
-,"Tonga","TON","Upper middle income","Connect",,"LMIC without any partner activity mapped"
+,"Togo","TGO","Low income","Test",,
+,"Tonga","TON","Upper middle income","Connect",,
 ,"Trinidad and Tobago","TTO","High income","High Income*",1,"Country receiving partner support"
-,"Tunisia","TUN","Lower middle income","Leverage",,"LMIC without any partner activity mapped"
-,"Turkey","TUR","Upper middle income","Strengthen",,"LMIC without any partner activity mapped"
-,"Turkmenistan","TKM","Upper middle income","Connect",,"LMIC without any partner activity mapped"
+,"Tunisia","TUN","Lower middle income","Leverage",,
+,"Turkey","TUR","Upper middle income","Strengthen",,
+,"Turkmenistan","TKM","Upper middle income","Connect",,
 ,"Turks and Caicos Islands","TCA","High income","High Income*",,"HIC without any partner activity mapped"
-,"Tuvalu","TUV","Upper middle income","Test",,"LMIC without any partner activity mapped"
+,"Tuvalu","TUV","Upper middle income","Test",,
 ,"U.S. Virgin Islands","VIR","High income","High Income*",,"HIC without any partner activity mapped"
 ,"Uganda","UGA","Low income","Strengthen",3,"Country receiving partner support"
 ,"Ukraine","UKR","Lower middle income","Leverage",1,"Country receiving partner support"
 ,"United Arab Emirates","ARE","High income","High Income*",,"HIC without any partner activity mapped"
 ,"United Kingdom","GBR","High income","High Income*",,"HIC without any partner activity mapped"
-,"United Nations Buffer Zone in Cyprus","","NaN","Test",,"LMIC without any partner activity mapped"
-,"United States Minor Outlying Islands","UMI","NaN","Test",,"LMIC without any partner activity mapped"
-,"United States Minor Outlying Islands","UMI","NaN","Test",,"LMIC without any partner activity mapped"
-,"United States Minor Outlying Islands","UMI","NaN","Test",,"LMIC without any partner activity mapped"
-,"United States Minor Outlying Islands","UMI","NaN","Test",,"LMIC without any partner activity mapped"
-,"United States Minor Outlying Islands","UMI","NaN","Test",,"LMIC without any partner activity mapped"
-,"United States Minor Outlying Islands","UMI","NaN","Test",,"LMIC without any partner activity mapped"
-,"United States Minor Outlying Islands","UMI","NaN","Test",,"LMIC without any partner activity mapped"
-,"United States Minor Outlying Islands","UMI","NaN","Test",,"LMIC without any partner activity mapped"
-,"United States Minor Outlying Islands","UMI","NaN","Test",,"LMIC without any partner activity mapped"
+,"United Nations Buffer Zone in Cyprus","","NaN","Test",,
+,"United States Minor Outlying Islands","UMI","NaN","Test",,
+,"United States Minor Outlying Islands","UMI","NaN","Test",,
+,"United States Minor Outlying Islands","UMI","NaN","Test",,
+,"United States Minor Outlying Islands","UMI","NaN","Test",,
+,"United States Minor Outlying Islands","UMI","NaN","Test",,
+,"United States Minor Outlying Islands","UMI","NaN","Test",,
+,"United States Minor Outlying Islands","UMI","NaN","Test",,
+,"United States Minor Outlying Islands","UMI","NaN","Test",,
+,"United States Minor Outlying Islands","UMI","NaN","Test",,
 ,"United States of America","USA","High income","High Income*",4,"Country receiving partner support"
 ,"Uruguay","URY","High income","High Income*",1,"Country receiving partner support"
-,"Uzbekistan","UZB","Lower middle income","Connect",,"LMIC without any partner activity mapped"
-,"Vanuatu","VUT","Lower middle income","Connect",,"LMIC without any partner activity mapped"
-,"Vatican City","VAT","NaN","Test",,"LMIC without any partner activity mapped"
+,"Uzbekistan","UZB","Lower middle income","Connect",,
+,"Vanuatu","VUT","Lower middle income","Connect",,
+,"Vatican City","VAT","NaN","Test",,
 ,"Venezuela","VEN","Upper middle income","Leverage",1,"Country receiving partner support"
 ,"Vietnam","VNM","Lower middle income","Leverage",7,"Country receiving partner support"
-,"Wallis and Futuna","WLF","NaN","Test",,"LMIC without any partner activity mapped"
-,"West Bank and Gaza","PSE","Lower middle income","Connect",,"LMIC without any partner activity mapped"
-,"Western Sahara","ESH","NaN","Test",,"LMIC without any partner activity mapped"
-,"Western Sahara - Morocco Disputed Boundary","","NaN","Test",,"LMIC without any partner activity mapped"
-,"Yemen","YEM","Low income","Connect",,"LMIC without any partner activity mapped"
+,"Wallis and Futuna","WLF","NaN","Test",,
+,"West Bank and Gaza","PSE","Lower middle income","Connect",,
+,"Western Sahara","ESH","NaN","Test",,
+,"Western Sahara - Morocco Disputed Boundary","","NaN","Test",,
+,"Yemen","YEM","Low income","Connect",,
 ,"Zambia","ZMB","Lower middle income","Strengthen",4,"Country receiving partner support"
 ,"Zimbabwe","ZWE","Lower middle income","Leverage",0,"LMIC without any partner activity mapped"
