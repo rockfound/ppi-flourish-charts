@@ -1,65 +1,65 @@
-"geometry","country","code","region","latitude","longitude","wb_economy","archetype","organisations","improving_access_to_tools","workforce_strenghtening","enhancing_data_utlity","maximise_connectivity","readiness_for_future_emergencies","total_projects","projects_concept","projects_planning","projects_implementation","projects_completed","no_information"
-,"Argentina","ARG","Americas",-35.38135347,-65.17980881,"Upper middle income","Strengthen",3,"X","✓","✓","X","X",2,0,1,1,0,0
-,"Australia","AUS","Western Pacific",-25.73288736,134.49099877,"High income","High Income*",1,"X","X","✓","X","X",1,0,0,1,0,0
-,"Bangladesh","BGD","South-East Asia",23.86730412,90.23812793,"Lower middle income","Strengthen",7,"✓","✓","✓","✓","X",8,2,4,1,1,0
-,"Barbados","BRB","Americas",13.18145371,-59.55980198,"High income","High Income*",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"Bolivia","BOL","Americas",-16.70814536,-64.6853892,"Lower middle income","Connect",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"Brazil","BRA","Americas",-10.78777567,-53.09783199,"Upper middle income","Strengthen",7,"✓","✓","✓","X","X",7,1,2,2,1,1
-,"Burkina Faso","BFA","Africa",12.26953681,-1.7545684,"Low income","Leverage",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"Cambodia","KHM","Western Pacific",12.72004932,104.90694312,"Lower middle income","Strengthen",1,"X","✓","✓","X","X",2,0,2,0,0,0
-,"Cameroon","CMR","Africa",5.69110296,12.73964266,"Lower middle income","Leverage",3,"✓","✓","✓","X","X",4,0,2,1,1,0
-,"Chile","CHL","Americas",-37.73069754,-71.38255879,"High income","High Income*",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"China","CHN","Western Pacific",36.56176801,103.81907385,"Upper middle income","High Income*",2,"✓","✓","✓","X","X",2,0,0,1,1,0
-,"Colombia","COL","Americas",3.91383156,-73.08114936,"Upper middle income","Strengthen",3,"✓","✓","✓","X","X",3,0,1,1,1,0
-,"Comoros","COM","Africa",-11.87777573,43.68238096,"Lower middle income","Test",2,"X","✓","✓","X","X",1,0,0,1,0,0
-,"Costa rica","CRI","Americas",9.9763424,-84.19208786,"Upper middle income","Strengthen",3,"✓","✓","✓","X","X",3,0,1,1,1,0
-,"DRC","COD","Africa",-2.87746013,23.64395637,"Low income","Strengthen",1,"✓","✓","X","X","X",1,0,0,1,0,0
-,"Ecuador","ECU","Americas",-1.42381949,-78.75203573,"Upper middle income","Strengthen",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"Ethiopia","ETH","Africa",8.62278417,39.6008014,"Low income","Connect",5,"✓","✓","✓","X","X",5,0,3,2,0,0
-,"Gabon","GAB","Africa",-0.58660329,11.78863005,"Upper middle income","Leverage",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"Georgia","GEO","Europe",42.16855944,43.50778995,"Upper middle income","Leverage",1,"✓","✓","X","X","X",2,0,0,1,1,0
-,"Germany","DEU","Europe",51.10697903,10.38577693,"High income","High Income*",1,"X","X","X","✓","X",1,0,0,1,0,0
-,"Ghana","GHA","Africa",7.95345124,-1.21676901,"Lower middle income","Strengthen",4,"X","✓","✓","X","X",2,0,2,0,0,0
-,"Guatemala","GTM","Americas",15.69404158,-90.36482288,"Upper middle income","Leverage",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"Guinea","GIN","Africa",10.43621595,-10.94066379,"Low income","Test",1,"X","✓","X","X","X",2,0,0,2,0,0
-,"Haiti","HTI","Americas",18.93500961,-72.68527364,"Low income","Test",3,"✓","✓","✓","X","X",2,0,1,0,1,0
-,"India","IND","South-East Asia",22.88578035,79.61197355,"Lower middle income","Strengthen",11,"✓","✓","✓","✓","X",11,1,5,4,0,1
-,"Indonesia","IDN","South-East Asia",-2.21505018,117.24009764,"Upper middle income","Strengthen",6,"X","✓","✓","✓","X",5,1,2,2,0,0
-,"Jamaica","JAM","Americas",18.15695476,-77.31482556,"Upper middle income","Connect",3,"X","✓","✓","X","X",2,0,2,0,0,0
-,"Kazakhstan","KAZ","Europe",48.15687954,67.29149657,"Upper middle income","Leverage",1,"✓","✓","X","X","X",2,0,0,1,1,0
-,"Kenya","KEN","Africa",0.5998746,37.79594437,"Lower middle income","Strengthen",7,"✓","✓","✓","✓","✓",8,0,0,6,1,1
-,"Laos","LAO","Western Pacific",18.50217971,103.73772128,"Lower middle income","Connect",3,"X","✓","✓","X","X",3,0,2,1,0,0
-,"Lebanon","LBN","Eastern Mediterranean",33.92306993,35.88016327,"Upper middle income","Strengthen",1,"✓","✓","✓","X","X",3,0,1,1,1,0
-,"Madagascar","MDG","Africa",-19.37189599,46.70473751,"Low income","Leverage",1,"✓","✓","✓","X","X",4,0,2,1,1,0
-,"Malawi","MWI","Africa",-13.2180697,34.2893585,"Low income","Connect",2,"X","✓","✓","X","X",2,0,0,2,0,0
-,"Mali","MLI","Africa",17.34581461,-3.54268794,"Low income","Leverage",2,"X","✓","✓","X","X",2,0,1,1,0,0
-,"Mexico","MEX","Americas",23.94753932,-102.52345042,"Upper middle income","Strengthen",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"Mozambique","MOZ","Africa",-17.27381898,35.53367351,"Low income","Connect",0,"X","X","X","X","X",0,0,0,0,0,0
-,"Myanmar","MMR","South-East Asia",21.18566514,96.48843207,"Lower middle income","Leverage",1,"X","✓","✓","X","X",1,0,0,1,0,0
-,"Nepal","NPL","South-East Asia",28.24891362,83.9158367,"Lower middle income","Leverage",4,"X","✓","✓","✓","X",3,1,0,2,0,0
-,"Nigeria","NGA","Africa",9.59411807,8.08944243,"Lower middle income","Strengthen",4,"✓","✓","✓","X","X",4,0,1,2,1,0
-,"Oman","OMN","Eastern Mediterranean",20.60515412,56.09165967,"High income","High Income*",2,"✓","✓","X","X","✓",3,0,0,3,0,0
-,"Pakistan","PAK","Eastern Mediterranean",29.94975221,69.33958027,"Lower middle income","Leverage",2,"X","✓","X","X","X",2,0,1,1,0,0
-,"Panama","PAN","Americas",8.5175119,-80.11915152,"High income","High Income*",3,"✓","✓","✓","X","X",3,0,1,1,1,0
-,"Paraguay","PRY","Americas",-23.22823896,-58.40014084,"Upper middle income","Connect",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"Peru","PER","Americas",-9.15280281,-74.38242889,"Upper middle income","Strengthen",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"Russia","RUS","Europe",61.98052168,96.68657347,"Upper middle income","High Income*",1,"✓","✓","X","X","X",1,0,0,1,0,0
-,"Rwanda","RWA","Africa",-1.99033199,29.91989113,"Low income","Connect",0,"X","X","X","X","X",0,0,0,0,0,0
-,"Senegal","SEN","Africa",14.36624381,-14.47348904,"Lower middle income","Strengthen",4,"✓","✓","✓","X","X",2,0,1,1,0,0
-,"Seychelles","SYC","Africa",-4.66097821,55.47601997,"High income","High Income*",2,"X","✓","✓","X","X",1,0,0,1,0,0
-,"South Africa","ZAF","Africa",-29.0003377,25.08388384,"Upper middle income","Strengthen",5,"✓","✓","✓","X","X",6,0,0,5,1,0
-,"Sri Lanka","LKA","South-East Asia",7.61266309,80.70107795,"Lower middle income","Strengthen",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"Sudan","SDN","Eastern Mediterranean",15.99035431,29.94047226,"Low income","Test",2,"X","✓","✓","X","X",1,0,0,1,0,0
-,"Tanzania","TZA","Africa",-6.27565815,34.81310214,"Lower middle income","Connect",3,"✓","✓","✓","X","X",3,0,0,2,1,0
-,"Thailand","THA","South-East Asia",15.11816347,101.00288352,"Upper middle income","Strengthen",5,"✓","✓","✓","X","X",7,0,2,4,1,0
-,"The Bahamas","BHS","Americas",24.29031222,-76.62835738,"High income","High Income*",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"The Gambia","GMB","Africa",13.44965377,-15.39601809,"Low income","Strengthen",2,"X","✓","✓","X","X",1,0,0,1,0,0
-,"Trinidad and Tobago","TTO","Americas",10.45735757,-61.26565805,"High income","High Income*",1,"X","✓","X","X","X",1,0,1,0,0,0
-,"Uganda","UGA","Africa",1.27469024,32.36907536,"Low income","Strengthen",3,"✓","✓","✓","X","X",3,0,0,2,1,0
-,"Ukraine","UKR","Europe",48.99656784,31.38325794,"Lower middle income","Leverage",2,"✓","X","X","X","X",1,0,0,1,0,0
-,"United States","USA","Americas",45.67955203,-112.46167057,"High income","High Income*",1,"✓","✓","✓","✓","X",4,0,0,4,0,0
-,"Uruguay","URY","Americas",-32.79951982,-56.01806795,"High income","High Income*",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"Venezuela","VEN","Americas",7.12422395,-66.18184085,"Upper middle income","Leverage",2,"X","✓","✓","X","X",1,0,1,0,0,0
-,"Vietnam","VNM","Western Pacific",16.64601451,106.29913857,"Lower middle income","Leverage",5,"✓","✓","✓","X","X",7,0,1,5,1,0
-,"Zambia","ZMB","Africa",-13.45824537,27.77475082,"Lower middle income","Strengthen",6,"✓","✓","✓","X","X",4,1,1,2,0,0
-,"Zimbabwe","ZWE","Africa",-19.00420587,29.85145031,"Lower middle income","Leverage",0,"X","X","X","X","X",0,0,0,0,0,0
+"geometry","country","code","region","latitude","longitude","wb_economy","archetype","label","organisations","improving_access_to_tools","workforce_strenghtening","enhancing_data_utlity","maximise_connectivity","readiness_for_future_emergencies","total_projects","projects_concept","projects_planning","projects_implementation","projects_completed","no_information"
+,"Argentina","ARG","Americas",-35.38135347,-65.17980881,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",3,"X","✓","✓","X","X",2,0,1,1,0,0
+,"Australia","AUS","Western Pacific",-25.73288736,134.49099877,"High income","High Income*","",1,"X","X","✓","X","X",1,0,0,1,0,0
+,"Bangladesh","BGD","South-East Asia",23.86730412,90.23812793,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",7,"✓","✓","✓","✓","X",8,2,4,1,1,0
+,"Barbados","BRB","Americas",13.18145371,-59.55980198,"High income","High Income*","",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"Bolivia","BOL","Americas",-16.70814536,-64.6853892,"Lower middle income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"Brazil","BRA","Americas",-10.78777567,-53.09783199,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",7,"✓","✓","✓","X","X",7,1,2,2,1,1
+,"Burkina Faso","BFA","Africa",12.26953681,-1.7545684,"Low income","Leverage","– Leverage existing NGS capacity",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"Cambodia","KHM","Western Pacific",12.72004932,104.90694312,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",1,"X","✓","✓","X","X",2,0,2,0,0,0
+,"Cameroon","CMR","Africa",5.69110296,12.73964266,"Lower middle income","Leverage","– Leverage existing NGS capacity",3,"✓","✓","✓","X","X",4,0,2,1,1,0
+,"Chile","CHL","Americas",-37.73069754,-71.38255879,"High income","High Income*","",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"China","CHN","Western Pacific",36.56176801,103.81907385,"Upper middle income","High Income*","",2,"✓","✓","✓","X","X",2,0,0,1,1,0
+,"Colombia","COL","Americas",3.91383156,-73.08114936,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",3,"✓","✓","✓","X","X",3,0,1,1,1,0
+,"Comoros","COM","Africa",-11.87777573,43.68238096,"Lower middle income","Test","– Increase diagnostic testing capacity",2,"X","✓","✓","X","X",1,0,0,1,0,0
+,"Costa rica","CRI","Americas",9.9763424,-84.19208786,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",3,"✓","✓","✓","X","X",3,0,1,1,1,0
+,"DRC","COD","Africa",-2.87746013,23.64395637,"Low income","Strengthen","– Build additional NGS capacity for scale-up",1,"✓","✓","X","X","X",1,0,0,1,0,0
+,"Ecuador","ECU","Americas",-1.42381949,-78.75203573,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"Ethiopia","ETH","Africa",8.62278417,39.6008014,"Low income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",5,"✓","✓","✓","X","X",5,0,3,2,0,0
+,"Gabon","GAB","Africa",-0.58660329,11.78863005,"Upper middle income","Leverage","– Leverage existing NGS capacity",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"Georgia","GEO","Europe",42.16855944,43.50778995,"Upper middle income","Leverage","– Leverage existing NGS capacity",1,"✓","✓","X","X","X",2,0,0,1,1,0
+,"Germany","DEU","Europe",51.10697903,10.38577693,"High income","High Income*","",1,"X","X","X","✓","X",1,0,0,1,0,0
+,"Ghana","GHA","Africa",7.95345124,-1.21676901,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",4,"X","✓","✓","X","X",2,0,2,0,0,0
+,"Guatemala","GTM","Americas",15.69404158,-90.36482288,"Upper middle income","Leverage","– Leverage existing NGS capacity",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"Guinea","GIN","Africa",10.43621595,-10.94066379,"Low income","Test","– Increase diagnostic testing capacity",1,"X","✓","X","X","X",2,0,0,2,0,0
+,"Haiti","HTI","Americas",18.93500961,-72.68527364,"Low income","Test","– Increase diagnostic testing capacity",3,"✓","✓","✓","X","X",2,0,1,0,1,0
+,"India","IND","South-East Asia",22.88578035,79.61197355,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",11,"✓","✓","✓","✓","X",11,1,5,4,0,1
+,"Indonesia","IDN","South-East Asia",-2.21505018,117.24009764,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",6,"X","✓","✓","✓","X",5,1,2,2,0,0
+,"Jamaica","JAM","Americas",18.15695476,-77.31482556,"Upper middle income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",3,"X","✓","✓","X","X",2,0,2,0,0,0
+,"Kazakhstan","KAZ","Europe",48.15687954,67.29149657,"Upper middle income","Leverage","– Leverage existing NGS capacity",1,"✓","✓","X","X","X",2,0,0,1,1,0
+,"Kenya","KEN","Africa",0.5998746,37.79594437,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",7,"✓","✓","✓","✓","✓",8,0,0,6,1,1
+,"Laos","LAO","Western Pacific",18.50217971,103.73772128,"Lower middle income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",3,"X","✓","✓","X","X",3,0,2,1,0,0
+,"Lebanon","LBN","Eastern Mediterranean",33.92306993,35.88016327,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",1,"✓","✓","✓","X","X",3,0,1,1,1,0
+,"Madagascar","MDG","Africa",-19.37189599,46.70473751,"Low income","Leverage","– Leverage existing NGS capacity",1,"✓","✓","✓","X","X",4,0,2,1,1,0
+,"Malawi","MWI","Africa",-13.2180697,34.2893585,"Low income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",2,"X","✓","✓","X","X",2,0,0,2,0,0
+,"Mali","MLI","Africa",17.34581461,-3.54268794,"Low income","Leverage","– Leverage existing NGS capacity",2,"X","✓","✓","X","X",2,0,1,1,0,0
+,"Mexico","MEX","Americas",23.94753932,-102.52345042,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"Mozambique","MOZ","Africa",-17.27381898,35.53367351,"Low income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",0,"X","X","X","X","X",0,0,0,0,0,0
+,"Myanmar","MMR","South-East Asia",21.18566514,96.48843207,"Lower middle income","Leverage","– Leverage existing NGS capacity",1,"X","✓","✓","X","X",1,0,0,1,0,0
+,"Nepal","NPL","South-East Asia",28.24891362,83.9158367,"Lower middle income","Leverage","– Leverage existing NGS capacity",4,"X","✓","✓","✓","X",3,1,0,2,0,0
+,"Nigeria","NGA","Africa",9.59411807,8.08944243,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",4,"✓","✓","✓","X","X",4,0,1,2,1,0
+,"Oman","OMN","Eastern Mediterranean",20.60515412,56.09165967,"High income","High Income*","",2,"✓","✓","X","X","✓",3,0,0,3,0,0
+,"Pakistan","PAK","Eastern Mediterranean",29.94975221,69.33958027,"Lower middle income","Leverage","– Leverage existing NGS capacity",2,"X","✓","X","X","X",2,0,1,1,0,0
+,"Panama","PAN","Americas",8.5175119,-80.11915152,"High income","High Income*","",3,"✓","✓","✓","X","X",3,0,1,1,1,0
+,"Paraguay","PRY","Americas",-23.22823896,-58.40014084,"Upper middle income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"Peru","PER","Americas",-9.15280281,-74.38242889,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"Russia","RUS","Europe",61.98052168,96.68657347,"Upper middle income","High Income*","",1,"✓","✓","X","X","X",1,0,0,1,0,0
+,"Rwanda","RWA","Africa",-1.99033199,29.91989113,"Low income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",0,"X","X","X","X","X",0,0,0,0,0,0
+,"Senegal","SEN","Africa",14.36624381,-14.47348904,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",4,"✓","✓","✓","X","X",2,0,1,1,0,0
+,"Seychelles","SYC","Africa",-4.66097821,55.47601997,"High income","High Income*","",2,"X","✓","✓","X","X",1,0,0,1,0,0
+,"South Africa","ZAF","Africa",-29.0003377,25.08388384,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",5,"✓","✓","✓","X","X",6,0,0,5,1,0
+,"Sri Lanka","LKA","South-East Asia",7.61266309,80.70107795,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"Sudan","SDN","Eastern Mediterranean",15.99035431,29.94047226,"Low income","Test","– Increase diagnostic testing capacity",2,"X","✓","✓","X","X",1,0,0,1,0,0
+,"Tanzania","TZA","Africa",-6.27565815,34.81310214,"Lower middle income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",3,"✓","✓","✓","X","X",3,0,0,2,1,0
+,"Thailand","THA","South-East Asia",15.11816347,101.00288352,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",5,"✓","✓","✓","X","X",7,0,2,4,1,0
+,"The Bahamas","BHS","Americas",24.29031222,-76.62835738,"High income","High Income*","",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"The Gambia","GMB","Africa",13.44965377,-15.39601809,"Low income","Strengthen","– Build additional NGS capacity for scale-up",2,"X","✓","✓","X","X",1,0,0,1,0,0
+,"Trinidad and Tobago","TTO","Americas",10.45735757,-61.26565805,"High income","High Income*","",1,"X","✓","X","X","X",1,0,1,0,0,0
+,"Uganda","UGA","Africa",1.27469024,32.36907536,"Low income","Strengthen","– Build additional NGS capacity for scale-up",3,"✓","✓","✓","X","X",3,0,0,2,1,0
+,"Ukraine","UKR","Europe",48.99656784,31.38325794,"Lower middle income","Leverage","– Leverage existing NGS capacity",2,"✓","X","X","X","X",1,0,0,1,0,0
+,"United States","USA","Americas",45.67955203,-112.46167057,"High income","High Income*","",1,"✓","✓","✓","✓","X",4,0,0,4,0,0
+,"Uruguay","URY","Americas",-32.79951982,-56.01806795,"High income","High Income*","",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"Venezuela","VEN","Americas",7.12422395,-66.18184085,"Upper middle income","Leverage","– Leverage existing NGS capacity",2,"X","✓","✓","X","X",1,0,1,0,0,0
+,"Vietnam","VNM","Western Pacific",16.64601451,106.29913857,"Lower middle income","Leverage","– Leverage existing NGS capacity",5,"✓","✓","✓","X","X",7,0,1,5,1,0
+,"Zambia","ZMB","Africa",-13.45824537,27.77475082,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",6,"✓","✓","✓","X","X",4,1,1,2,0,0
+,"Zimbabwe","ZWE","Africa",-19.00420587,29.85145031,"Lower middle income","Leverage","– Leverage existing NGS capacity",0,"X","X","X","X","X",0,0,0,0,0,0
