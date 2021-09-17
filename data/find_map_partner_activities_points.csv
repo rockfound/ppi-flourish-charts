@@ -20,7 +20,7 @@
 "Georgia","GEO","Europe",42.16855944,43.50778995,"Upper middle income","Leverage","– Leverage existing NGS capacity",1,"✓","✓","X","X","X",2,0,0,1,1,0
 "Germany","DEU","Europe",51.10697903,10.38577693,"High income","High Income*","",1,"X","X","X","✓","X",1,0,0,1,0,0
 "Ghana","GHA","Africa",7.95345124,-1.21676901,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",4,"X","✓","✓","X","X",2,0,2,0,0,0
-"Guatemala","GTM","Americas",15.69404158,-90.36482288,"Upper middle income","Leverage","– Leverage existing NGS capacity",2,"X","✓","✓","X","X",1,0,1,0,0,0
+"Guatemala","GTM","Americas",15.69404158,-90.36482288,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",2,"X","✓","✓","X","X",1,0,1,0,0,0
 "Guinea","GIN","Africa",10.43621595,-10.94066379,"Low income","Test","– Increase diagnostic testing capacity",1,"X","✓","X","X","X",2,0,0,2,0,0
 "Haiti","HTI","Americas",18.93500961,-72.68527364,"Low income","Test","– Increase diagnostic testing capacity",3,"✓","✓","✓","X","X",2,0,1,0,1,0
 "India","IND","South-East Asia",22.88578035,79.61197355,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",11,"✓","✓","✓","✓","X",11,1,5,4,0,1
@@ -31,14 +31,14 @@
 "Laos","LAO","Western Pacific",18.50217971,103.73772128,"Lower middle income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",3,"X","✓","✓","X","X",3,0,2,1,0,0
 "Lebanon","LBN","Eastern Mediterranean",33.92306993,35.88016327,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",1,"✓","✓","✓","X","X",3,0,1,1,1,0
 "Madagascar","MDG","Africa",-19.37189599,46.70473751,"Low income","Leverage","– Leverage existing NGS capacity",1,"✓","✓","✓","X","X",4,0,2,1,1,0
-"Malawi","MWI","Africa",-13.2180697,34.2893585,"Low income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",2,"X","✓","✓","X","X",2,0,0,2,0,0
+"Malawi","MWI","Africa",-13.2180697,34.2893585,"Low income","Leverage","– Leverage existing NGS capacity",2,"X","✓","✓","X","X",2,0,0,2,0,0
 "Mali","MLI","Africa",17.34581461,-3.54268794,"Low income","Leverage","– Leverage existing NGS capacity",2,"X","✓","✓","X","X",2,0,1,1,0,0
 "Mexico","MEX","Americas",23.94753932,-102.52345042,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",2,"X","✓","✓","X","X",1,0,1,0,0,0
 "Myanmar","MMR","South-East Asia",21.18566514,96.48843207,"Lower middle income","Leverage","– Leverage existing NGS capacity",1,"X","✓","✓","X","X",1,0,0,1,0,0
 "Nepal","NPL","South-East Asia",28.24891362,83.9158367,"Lower middle income","Leverage","– Leverage existing NGS capacity",4,"X","✓","✓","✓","X",3,1,0,2,0,0
 "Nigeria","NGA","Africa",9.59411807,8.08944243,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",4,"✓","✓","✓","X","X",4,0,1,2,1,0
 "Oman","OMN","Eastern Mediterranean",20.60515412,56.09165967,"High income","High Income*","",2,"✓","✓","X","X","✓",3,0,0,3,0,0
-"Pakistan","PAK","Eastern Mediterranean",29.94975221,69.33958027,"Lower middle income","Leverage","– Leverage existing NGS capacity",2,"X","✓","X","X","X",2,0,1,1,0,0
+"Pakistan","PAK","Eastern Mediterranean",29.94975221,69.33958027,"Lower middle income","Strengthen","– Build additional NGS capacity for scale-up",2,"X","✓","X","X","X",2,0,1,1,0,0
 "Panama","PAN","Americas",8.5175119,-80.11915152,"High income","High Income*","",3,"✓","✓","✓","X","X",3,0,1,1,1,0
 "Paraguay","PRY","Americas",-23.22823896,-58.40014084,"Upper middle income","Connect","– Set-up sample referral networks or build NGS capacity from scratch",2,"X","✓","✓","X","X",1,0,1,0,0,0
 "Peru","PER","Americas",-9.15280281,-74.38242889,"Upper middle income","Strengthen","– Build additional NGS capacity for scale-up",2,"X","✓","✓","X","X",1,0,1,0,0,0
